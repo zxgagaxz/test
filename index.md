@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# Wichayaporn Thanasitthichok
+## PERSONAL INFORMATION 
+Residential Address : 50/20 Village No.20, Bang Phli Yai Sub-district, Bang Phli District, Samut Prakan, 10540
 
-You can use the [editor on GitHub](https://github.com/zxgagaxz/test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Mobile : 063-273-7828
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email : wichayaporn.thk@gmail.com
 
-### Markdown
+Date of Birth : 31 December 2002
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nationality : Thai
 
-```markdown
-Syntax highlighted code block
+Age : 18
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Interest and Activities : Listening to music, visiting new places and enjoying  badminton
 
-1. Numbered
-2. List
+## EDUCATION HISTORY
 
-**Bold** and _Italic_ and `Code` text
+Aug 2021 –  Present           Bachelor Degrees Data Science and Innovation, University of ABC, Bangkok THAILAND
 
-[Link](url) and ![Image](src)
-```
+May 2018 – Api 2020                High School Bangpleeratbamrung  , AAA High School, Bangkok THAILAND
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## activity
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zxgagaxz/test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Student Council:
+![image](https://img.in.th/images/6b8e667f1e69d85a9a207c3c8244e075.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+***
+
+Sports days:
+![image](https://img.in.th/images/37aba59df17e2a50694b971cce6ce72e.jpg)
+![image](https://img.in.th/images/67e081bb14679c08f6bb4562a9426b6b.jpg)
+
+
+___
+
+Gifted camp:
+![Image](https://img.in.th/images/61c0875024575d28c6b6585c503ce9c8.jpg)
+![Image](https://img.in.th/images/ed3409b9490241318b5c73bab8352727.jpg)
+![Image](https://img.in.th/images/c919b18afcd83e1795f1220d51321d9e.jpg)
